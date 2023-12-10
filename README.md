@@ -41,6 +41,8 @@
 •	Ağ trafiğini izleyerek ve filtreleyerek TCP saldırılarını engellemek.
 
 **3. Paket Yakalama (Packet Sniffing):**
+
+
   Paket sniffing, ağ üzerindeki veri paketlerini izleyerek ele geçirme sürecidir. Bu yöntemle, hassas bilgilerin ele geçirilme riski bulunmaktadır.
 
 **Çözüm:**
