@@ -1,4 +1,4 @@
-##Ağ Güvenliği Nedir?
+Ağ Güvenliği Nedir?
    Ağ güvenliği, bir bilgisayar ağının arıza, yanlış kullanım, imha, değişiklik, yetkisiz erişim gibi durumlarla başa çıkabilmesi ve korunabilmesi için alınan önleyici tedbirlerin bütünüdür. Bu önlemler, ağ altyapısının güvenliğini artırmak ve veri güvenliğini sağlamak amacıyla uygulanır. İnternete veri yüklerken, bilgisayar korsanlarının verilere müdahale etmesini, gizli bilgileri ele geçirmesini veya mali zarara yol açmasını önlemek için ağ güvenliği önemlidir.
   Ağ güvenliği, siber güvenliğin ayrılmaz bir parçasıdır ve bir organizasyonun veya bireyin bilgisayar ağındaki veri güvenliğini sağlamak için gerekli adımları içerir. Bu güvenlik önlemleri, ağın ve içinde bulunan verilerin siber tehditlere, izinsiz yazılım ve donanım girişlerine karşı korunmasını amaçlar.
   Ağ güvenliği, çeşitli tehditlere karşı koruma sağlamak üzere belirlenen kurallar, düzenlemeler ve yapılandırmalar içerir. Bu önlemler, ağın kullanımına, erişilebilirliğine ve genel tehdit güvenliğine odaklanarak ağ altyapısının güvenilirliğini artırır.
