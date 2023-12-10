@@ -23,6 +23,8 @@
 
 
 •	Dağıtılmış Denial of Service saldırılarına karşı dayanıklı altyapı oluşturmak.
+
+
 •	Ağ trafiğini izleyerek anormallikleri tespit etmek ve trafik filtreleme çözümleriyle saldırıları engellemek.
 
 **2. TCP Saldırıları (TCP Attacks):**
@@ -34,13 +36,19 @@
 
 
 •	TCP/IP protokol ailesindeki zayıf noktaları güçlendirmek.
+
+
 •	Ağ trafiğini izleyerek ve filtreleyerek TCP saldırılarını engellemek.
 
 **3. Paket Yakalama (Packet Sniffing):**
   Paket sniffing, ağ üzerindeki veri paketlerini izleyerek ele geçirme sürecidir. Bu yöntemle, hassas bilgilerin ele geçirilme riski bulunmaktadır.
 
 **Çözüm:**
+
+
 •	Veri paketlerini şifrelemek ve güvenli iletişim protokollerini benimsemek.
+
+
 •	Ağ trafiğini düzenli olarak izleyerek anormallikleri tespit etmek ve güvenlik önlemlerini güncel tutmak.
 
 
@@ -51,39 +59,99 @@
   Sosyal mühendislik saldırıları, kullanıcıları manipüle ederek bilgi elde etmeyi amaçlar. Bu tür saldırılar, teknik güvenlik önlemleriyle kolayca tespit edilemeyen, ancak büyük zararlara yol açabilen bir tehdittir.
 
 **Çözüm:**
+
+
 •	Personeli sosyal mühendislik saldırıları konusunda düzenli olarak eğitmek.
+
+
 •	Bilgi paylaşımını minimumda tutmak ve güvenilmeyen kaynaklardan gelen taleplere karşı dikkatli olmak.
 
 ## Güvenlik Açıklarının Tespiti Ve Kapatılması İçin En İyi Uygulamalar:
   Günümüzde hızla dijitalleşen dünyada, bilgisayar sistemleri ve ağlar giderek artan bir şekilde çeşitli siber tehditlere maruz kalmaktadır. Bu tehditler, kötü niyetli yazılımlar, bilgi sızıntıları ve veri kaybı gibi potansiyel riskleri içermekte olup, bu tür durumlar organizasyonlar için ciddi sonuçlar doğurabilir. Güvenlik açıklarının tespiti ve kapatılması, bir organizasyonun siber güvenlik stratejisinin temel taşını oluşturur. Bu bağlamda, etkili bir güvenlik açığı yönetimi, proaktif bir yaklaşım benimseyerek mevcut ve potansiyel riskleri belirler, analiz eder ve düzeltici önlemler alarak siber altyapıyı korur. Bu yazıda, güvenlik açıklarının tespiti ve kapatılması için kullanılan en etkili uygulamaları inceleyeceğiz.
 **1.Vulnerability Manager Plus:**
+
+
 •	ManageEngine tarafından geliştirilmiş bir güvenlik yönetim çözümüdür.
+
+
 •	Ağdaki bilgisayar sistemlerinde ve uygulamalardaki güvenlik açıklarını tespit eder.
+
+
 •	Otomatik yama yönetimi, risk değerlendirmesi ve uyumluluk kontrolü sağlar.
+
+
 **2.Nessus Professional:**
+
+
 •	Tenable tarafından geliştirilen bir zafiyet tarama aracıdır.
+
+
 •	Ağlardaki ve sistemlerdeki güvenlik açıklarını tarar ve risk değerlendirmesi yapar.
+
+
 •	Kapsamlı raporlama yetenekleri ve entegrasyon seçenekleri sunar.
+
+
 **3.OpenVAS (Open Vulnerability Assessment System):**
+
+
 •	Açık kaynaklı bir güvenlik açığı tarama çözümüdür.
+
+
 •	Güvenlik açıklarını ve zayıf noktaları belirler.
+
+
 •	Modüler yapısıyla genişletilebilir ve özelleştirilebilir.
+
+
 **4.Qualys Vulnerability Management:**
+
+
 •	Bulut tabanlı bir güvenlik açığı yönetimi platformudur.
+
+
 •	Otomatik zafiyet taraması, risk analizi ve uyumluluk kontrolü sağlar.
+
+
 •	Raporlama ve izleme yetenekleri ile entegrasyon seçenekleri sunar.
+
+
 **5.Acunetix:**
+
+
 •	Web uygulamalarındaki güvenlik açıklarını tespit etmek için kullanılan bir güvenlik tarama aracıdır.
+
+
 •	SQL enjeksiyonu, XSS gibi web uygulama tehditlerini kontrol eder.
+
+
 •	Otomatik tarayıcı ve manuel test seçenekleri sunar.
+
+
 **6.Rapid7 Nexpose:**
+
+
 •	Ağ üzerindeki güvenlik açıklarını tespit etmek, risk analizi yapmak ve uyumluluk kontrolü sağlamak için kullanılır.
+
+
 •	Zafiyet skorlama ve entegrasyon yetenekleri içerir.
+
+
 •	Kullanıcı dostu arayüzü ve geniş raporlama seçenekleri bulunur.
+
+
 **7.IBM Security QRadar:**
+
+
 •	Güvenlik bilgisi ve olay yönetimi (SIEM) platformudur.
+
+
 •	Ağdaki güvenlik olaylarını izler ve analiz eder.
+
+
 •	Zafiyet yönetimi ve tehdit istihbaratı entegrasyonu sağlar.
+
+
 
 
 
