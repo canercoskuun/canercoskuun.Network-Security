@@ -15,6 +15,7 @@
   Teknolojinin hızla ilerlemesiyle birlikte, ağ güvenliği sorunları da daha karmaşık hale gelmektedir. Bu yazıda, günümüzde karşılaşılan bazı güncel ağ güvenliği sorunlarına daha detaylı bir bakış sunacak ve bu sorunlara karşı etkili çözüm stratejilerini ele alacağız.
 
 **1. Hizmet Reddi Saldırıları (Denial of Service (DoS) Attacks):**
+
   Denial of Service saldırıları, ağa yoğun trafik göndererek hedef sistemleri kullanılamaz hale getirme amacını taşır. Bu saldırı türü, genellikle bot ağları kullanılarak gerçekleştirilir ve ağ güvenliğini ciddi şekilde tehdit eder.
 
 **Çözüm**:
