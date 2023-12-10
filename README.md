@@ -16,6 +16,7 @@
 
 **1. Hizmet Reddi Saldırıları (Denial of Service (DoS) Attacks):**
 
+
   Denial of Service saldırıları, ağa yoğun trafik göndererek hedef sistemleri kullanılamaz hale getirme amacını taşır. Bu saldırı türü, genellikle bot ağları kullanılarak gerçekleştirilir ve ağ güvenliğini ciddi şekilde tehdit eder.
 
 **Çözüm**:
