@@ -20,13 +20,19 @@
   Denial of Service saldırıları, ağa yoğun trafik göndererek hedef sistemleri kullanılamaz hale getirme amacını taşır. Bu saldırı türü, genellikle bot ağları kullanılarak gerçekleştirilir ve ağ güvenliğini ciddi şekilde tehdit eder.
 
 **Çözüm**:
+
+
 •	Dağıtılmış Denial of Service saldırılarına karşı dayanıklı altyapı oluşturmak.
 •	Ağ trafiğini izleyerek anormallikleri tespit etmek ve trafik filtreleme çözümleriyle saldırıları engellemek.
 
 **2. TCP Saldırıları (TCP Attacks):**
+
+
   TCP saldırıları, TCP/IP protokol ailesini hedef alarak bağlantıları manipüle etmeyi amaçlar. Bu tür saldırılar, ağ trafiğini bozabilir ve hedef sistemdeki kaynakları tüketebilir.
 
 **Çözüm:**
+
+
 •	TCP/IP protokol ailesindeki zayıf noktaları güçlendirmek.
 •	Ağ trafiğini izleyerek ve filtreleyerek TCP saldırılarını engellemek.
 
